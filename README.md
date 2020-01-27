@@ -38,4 +38,8 @@ MMRMMRMRRM
 5 1 E
 ```
 
+For Running Program 
+python main.py
 
+For unit tests
+python -m unittest -v tests/test_mars_rover.py
