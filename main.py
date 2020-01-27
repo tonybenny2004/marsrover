@@ -3,9 +3,6 @@ from Mars import Position
 from Mars import Rovers
 
 
-
-
-
 def main():
     plateau = Plateau(5, 5)
     position = Position(1, 2)
